@@ -1,6 +1,3 @@
----
-output: html_document
----
 # Customer Segmentation Analysis: 
 # Clustering Customers for Targeted Marketing
  
